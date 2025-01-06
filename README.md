@@ -4,9 +4,9 @@ Logging My Mongo Certification Course here
 <h3>Mongo shell(mongosh) terminal commands</h3>
 
 ```
-db.help()
+db.help()  //returns the following
 
-getMongo                                   Returns the current database connection
+    getMongo                                   Returns the current database connection
     getName                                    Returns the name of the DB
     getCollectionNames                         Returns an array containing the names of all collections in the current database.
     getCollectionInfos                         Returns an array of documents with collection information, i.e. collection name and options, for the current database.
